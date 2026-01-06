@@ -39,7 +39,7 @@ A comprehensive Android fitness tracking application built with Kotlin and Jetpa
 ### Core Features
 - ✅ **User Authentication & Profile Management**:  Register, login, and manage your profile
 - 📊 **Step Tracking**: Real-time step counting with background service support
-- 🏃 **Activity Tracking**: Track multiple activity types (Walking, Running, Cycling, Gym, Swimming)
+- 🏃 **Activity Tracking**: Track multiple activity types (Walking, Running)
 - 🎯 **Goals & Challenges**: Set and track daily, weekly, and monthly fitness goals
 - 👥 **Social Features**: Add friends, view leaderboards, and participate in challenges
 - 📈 **Data Visualization**: Charts and graphs for step count, activities, and calories
